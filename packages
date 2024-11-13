@@ -1,6 +1,6 @@
-ImageMagick alsa base bash bat brltty chrony cmake cowsay cryptsetup curl dejavu dialog dmenu 
-droidcam dunst emacs espeakup feh figlet firefox font fontconfig git gnome grub gvfs helix htop 
-i3 i3blocks i3status jp2a kitty libX11 libXft libvterm lightdm lm_sensors lvm2 lxappearance mdadm 
-neofetch network noto obs orca pa picom pipewire powertop qemu ranger scrot setxkbmap sl termdown 
-terminus tlp tmux toilet tree udisks2 unclutter vlc void volumeicon w3m wget xauth xclip xfce4 xmirror xorg xtools yt-dlp
+ImageMagick base-devel bash-completion bat cmake cowsay curl dmenu 
+droidcam dunst emacs feh figlet font-iosevka fontconfig git gvfs helix htop 
+i3 i3blocks i3status jp2a kitty libX11 libXft libvterm lxappearance 
+neofetch obs pa-applet picom pipewire qemu ranger scrot setxkbmap sl termdown 
+tlp tmux toilet tree udisks2 unclutter vlc w3m wget xclip yt-dlp
 
